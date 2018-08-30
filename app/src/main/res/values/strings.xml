@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NApplication</string>
+    <string name="button">library</string>
+    <string name="button2">lpp</string>
+    <string name="button3">Button3</string>
+    <string name="button5">Button5</string>
+    <string name="button6">Button6</string>
+</resources>
